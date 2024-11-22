@@ -5,9 +5,9 @@ And you can download datasets through [jianguoyun](https://www.jianguoyun.com/c/
 
 # Results
 ## Training loss
-![Training loss curve](https://github.com/CokerPad/VarMiON/tree/main/Image/image-1.png)
+![(Training loss curve)](https://github.com/CokerPad/VarMiON/blob/main/Image/image-1.png)
 ## Results
-![Testing prediction results](https://github.com/CokerPad/VarMiON/tree/main/Image/image.png)
+![(Testing prediction results)](https://github.com/CokerPad/VarMiON/blob/main/Image/image.png)
 
 # Reference
 [1] Patel, Dhruv, et al. "Variationally mimetic operator networks." Computer Methods in Applied Mechanics and Engineering 419 (2024): 116536.
