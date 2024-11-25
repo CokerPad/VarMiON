@@ -10,5 +10,5 @@ And you can download datasets through [jianguoyun](https://www.jianguoyun.com/c/
 ![(Testing prediction results)](https://github.com/CokerPad/VarMiON/blob/main/Image/image.png)
 
 # Reference
-[1] Patel, Dhruv, et al. "Variationally mimetic operator networks." Computer Methods in Applied Mechanics and Engineering 419 (2024): 116536.
+[1] [Patel, Dhruv, et al. "Variationally mimetic operator networks." Computer Methods in Applied Mechanics and Engineering 419 (2024): 116536.](https://www.sciencedirect.com/science/article/abs/pii/S0045782523006606)
 
